@@ -3,7 +3,9 @@
 - 💻 Developpeur Back-End / Front-End.
 - 👨‍💻 Technologies: PHP, JS, Html, css.
 
-- 🔭 I’m currently working on [Photographics => My End-of-study work.](https://github.com/AudricSan/Photographics).
+- 🔭 I’m currently working on [KanaTrainning](https://github.com/AudricSan/kanaTraining).
+- 🔭 I have paused the development [Photographics => My End-of-study work.](https://github.com/AudricSan/Photographics).
+
 - 🌱 I’m currently learning POO in PHP and PHP Frameworks.
 
 - 💬 Ask me about making something for you => go DM me 📫.
