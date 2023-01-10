@@ -10,3 +10,5 @@
 
 - 💬 Ask me about making something for you => go DM me 📫.
 - ⚡ Fun fact: I am a designer who becomes a developer.
+
+=> The old Repo's have been deleted to correct security problems! #Learn_From_Error
