@@ -1,0 +1,49 @@
+{
+    // EDITOR
+    "editor.minimap.enabled": false,
+    "editor.formatOnPaste": false,
+    "editor.formatOnSave": false,
+    "editor.renderWhitespace": "trailing",
+    "editor.linkedEditing": true,
+    "editor.occurrencesHighlight": false,
+    "editor.suggest.insertMode": "replace",
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.fontFamily": "Source Code Pro, JetBrains Mono, Consolas, Courier New, monospace",
+    "editor.lineHeight": 21,
+    "editor.fontSize": 15,
+
+    //FILES
+    "files.autoSave": "onFocusChange",
+    "files.defaultLanguage": "mackdown",
+
+    //EXPLOREUR
+    "explorer.autoReveal": false,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": true,
+    "explorer.confirmUndo": "default",
+
+    //WORKBENCH
+    "workbench.tree.indent": 15,
+    "workbench.tree.renderIndentGuides": "always",
+    "workbench.editor.enablePreview": false,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.iconTheme": "material-icon-theme",
+
+    //EMMET
+    "emmet.triggerExpansionOnTab": true,
+
+    //GIT
+    "git.confirmSync": true,
+    "git.enableSmartCommit": true,
+
+    //MUTICOMANDE
+    "multiCommand.commands": [
+        {
+            "command": "multiCommand.menuHide",
+            "sequence": [
+                "workbench.action.toggleActivityBarVisibility",
+                "workbench.action.toggleSidebarVisibility"
+            ]
+        },
+    ]
+}

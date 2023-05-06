@@ -1,0 +1,42 @@
+// Place your key bindings in this file to override the defaults
+[
+    {
+        "key": "ctrl+d",
+        "command": "editor.action.duplicateSelection"
+    },{
+        "key": "alt+1",
+        "command": "multiCommand.menuHide"
+    },{
+        "key": "ctrl+shift+d",
+        "command": "editor.action.addSelectionToNextFindMatch",
+        "when" : "editorFocus"
+    },{
+        "key": "ctrl+P",
+        "command": "workbench.action.showCommands"
+    },{
+        "key": "ctrl+o",
+        "command": "workbench.action.quickOpen"
+    },{
+        "key": "ctrl+shift+o",
+        "command": "revealFileInOS"
+    },{
+        "key": "ctrl+r",
+        "command": "workbench.action.gotoSymbol"
+    },{
+        "key": "ctrl+n",
+        "command": "explorer.newFile"
+    },{
+        "key": "ctrl+alt+l",
+        "command": "editor.action.formatDocument"
+    },{
+        "key": "ctrl+t",
+        "command": "workbench.action.terminal.toggleTerminal"
+    },{
+        "key": "ctrl+k",
+        "command": "workbench.view.scm"
+    },{
+        "key": "alt+1",
+        "command": "workbench.view.explorer",
+        "when": "view.workbench.scm.visible"
+    }
+]
