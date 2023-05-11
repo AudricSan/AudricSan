@@ -1,0 +1,10 @@
+# Locals
+127.0.0.1   localhost
+::1         localhost
+
+# My Work
+127.0.0.100 old-photographics
+::1         old-photographics
+
+127.3.5.100 kanatraining
+::1         kanatraining
