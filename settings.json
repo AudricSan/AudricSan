@@ -44,6 +44,6 @@
                 "workbench.action.toggleActivityBarVisibility",
                 "workbench.action.toggleSidebarVisibility"
             ]
-        },
+        }
     ]
 }
