@@ -2,6 +2,7 @@
 - [Profile github memory](https://githubmemory.com/@audricsan).
 - 💻 Developpeur Back-End / Front-End.
 - 👨‍💻 Technologies: PHP, JS, Html, css.
+- 👨‍💻 Frameworks: Laravel.
 
 - 🔭 I’m currently working on [KanaTrainning](https://github.com/AudricSan/kanaTraining).
 - 🔭 I have paused the development [Photographics => My End-of-study work.](https://github.com/AudricSan/Photographics).
