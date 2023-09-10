@@ -25,8 +25,7 @@
     //WORKBENCH
     "workbench.tree.indent": 15,
     "workbench.tree.renderIndentGuides": "always",
-    "workbench.editor.enablePreview": false,
-    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.editor.enablePreview": true,
     "workbench.iconTheme": "material-icon-theme",
 
     //EMMET
@@ -45,5 +44,15 @@
                 "workbench.action.toggleSidebarVisibility"
             ]
         }
-    ]
+    ],
+
+    //SSH Platform
+    "remote.SSH.remotePlatform": {
+        "192.168.10.111": "linux"
+    },
+    "vscode-home-assistant.hostUrl": "http://192.168.10.111:8123",
+    "vscode-home-assistant.ignoreCertificates": true,
+    "vscode-home-assistant.longLivedAccessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiIwNmZkYjVkYzkzM2Y0NGU5YTgzZTZlODViYmVjNTYxNCIsImlhdCI6MTY5NDE3MzE5MywiZXhwIjoyMDA5NTMzMTkzfQ.cq8bNnvavTDPbS4CPWqtV65tRMhCkAdyJeGhMhzBp6E",
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "vscode-edge-devtools.webhintInstallNotification": true
 }

@@ -1,0 +1,30 @@
+/blob_storage 
+/Cache 
+/CachedConfigurations 
+/CachedData 
+/CachedExtensionVSIXs 
+/CachedProfilesData 
+/clp 
+/Code Cache 
+/Crashpad 
+/databases 
+/DawnCache 
+/GPUCache 
+/Local Storage 
+/logs 
+/Network 
+/Service Worker 
+/Session Storage 
+/shared_proto_db 
+/VideoDecodeStats 
+/WebStorage 
+/Workspaces
+User/globalStorage
+User/History
+User/snippets
+User/sync
+User/workspaceStorage
+Local State
+machineid
+Preferences
+languagepacks.json
