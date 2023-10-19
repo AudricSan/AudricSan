@@ -55,5 +55,8 @@
     "vscode-home-assistant.longLivedAccessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiIwNmZkYjVkYzkzM2Y0NGU5YTgzZTZlODViYmVjNTYxNCIsImlhdCI6MTY5NDE3MzE5MywiZXhwIjoyMDA5NTMzMTkzfQ.cq8bNnvavTDPbS4CPWqtV65tRMhCkAdyJeGhMhzBp6E",
     "workbench.editor.enablePreviewFromQuickOpen": true,
     "vscode-edge-devtools.webhintInstallNotification": true,
-    "window.zoomLevel": 1
+    "window.zoomLevel": 1,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
 }
