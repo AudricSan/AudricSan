@@ -58,5 +58,19 @@
     "window.zoomLevel": 1,
     "[json]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "vscodeGoogleTranslate.preferredLanguage": "French",
+    "security.workspace.trust.untrustedFiles": "open",
+    "[php]": {
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    },
+    "[scss]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
     }
 }
