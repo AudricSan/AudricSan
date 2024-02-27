@@ -85,5 +85,6 @@
     "[dockercompose]": {
         "editor.defaultFormatter": "ms-azuretools.vscode-docker"
     },
-    "git.openRepositoryInParentFolders": "always"
+    "git.openRepositoryInParentFolders": "always",
+    "workbench.colorTheme": "Visual Studio Dark"
 }
