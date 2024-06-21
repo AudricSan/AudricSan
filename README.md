@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [KanaTrainning](https://github.com/AudricSan/kanaTraining).
 - 🔭 I have paused the development [Photographics => My End-of-study work.](https://github.com/AudricSan/Photographics).
 
-- 🌱 I’m currently learning POO in PHP and PHP Frameworks.
+<!-- - 🌱 I’m currently learning POO in PHP and PHP Frameworks. -->
 
 - 💬 Ask me about making something for you => go DM me 📫.
 - ⚡ Fun fact: I am a designer who becomes a developer.
