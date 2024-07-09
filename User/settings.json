@@ -86,5 +86,8 @@
         "editor.defaultFormatter": "ms-azuretools.vscode-docker"
     },
     "git.openRepositoryInParentFolders": "always",
-    "workbench.colorTheme": "Visual Studio Dark"
+    "workbench.colorTheme": "Visual Studio Dark",
+    "mssql.objectExplorer.groupBySchema": false,
+    "markdown-preview-enhanced.codeBlockTheme": "okaidia.css",
+    "markdown-preview-enhanced.previewTheme": "github-dark.css"
 }
