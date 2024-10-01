@@ -106,5 +106,6 @@
     },
     "[markdown]": {
         "editor.defaultFormatter": "yzhang.markdown-all-in-one"
-    }
+    },
+    "editor.inlineSuggest.suppressSuggestions": true
 }
