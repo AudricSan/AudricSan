@@ -30,3 +30,5 @@ machineid
 Preferences
 languagepacks.json
 SharedStorage
+/DawnGraphiteCache
+DawnWebGPUCache
