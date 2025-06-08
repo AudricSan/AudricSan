@@ -107,5 +107,21 @@
     "[markdown]": {
         "editor.defaultFormatter": "yzhang.markdown-all-in-one"
     },
-    "editor.inlineSuggest.suppressSuggestions": true
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "Codegeex.Privacy": true,
+    "codeium.enableConfig": {
+        "*": true,
+        "plaintext": true,
+        "factorio-locale": true
+    },
+    "files.associations": {
+        "*.ps1": "powershell"
+    },
+    "[home-assistant]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "diffEditor.ignoreTrimWhitespace": true,
+    "makefile.configureOnOpen": true,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "camouflage.enabled": false,
 }
