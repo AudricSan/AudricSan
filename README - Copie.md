@@ -1,0 +1,19 @@
+## WEB DEVELOPER
+- Features of this gig are:
+- HTML5 & CSS3.
+- Integration of JavaScript/ JQuery libraries.
+- New features in React application.
+- Javascript custom scripts.
+- PHP custom scripts.
+- Bootstrap Responsive.
+- Cross-platform compatibility.
+- HTML, CSS, and JavaScript coding in ClickFunnels/GoHighLevel.
+- SQL issues and queries.
+- JQuery Validation.
+- Optimized and documented code.
+- Speed optimization.
+- Generic bugs fixation.
+- Complete website development in Reactjs/Nodejs
+- Complete development in PHP ( Laravel, CodeIgnitor, Slim)
+- Full-fledged web applications.
+- Real Estate web applications.
