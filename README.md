@@ -1,15 +1,24 @@
-## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  I am Audric San. </h2>
-- [Profile github memory](https://githubmemory.com/@audricsan).
-- 💻 Developpeur Back-End / Front-End.
-- 👨‍💻 Technologies: PHP, JS, Html, css.
-- 👨‍💻 Frameworks: Laravel.
+## Hello there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Audric San
 
-- 🔭 I’m currently working on [KanaTrainning](https://github.com/AudricSan/kanaTraining).
-- 🔭 I have paused the development [Photographics => My End-of-study work.](https://github.com/AudricSan/Photographics).
+### 🚀 Current Projects
+- 🔭 [KanaTraining](https://github.com/AudricSan/kanaTraining) - Actively developing
+- 📸 [Photographics](https://github.com/AudricSan/Photographics) - Final year project (on hold)
 
-- 🌱 I’m currently learning POO in PHP and PHP Frameworks.
+### 👨‍💻 About Me
+- Passionate Full Stack Developer
+- Specialized in Back-End and Front-End
+- Designer turned Developer
 
-- 💬 Ask me about making something for you => go DM me 📫.
-- ⚡ Fun fact: I am a designer who becomes a developer.
+### 🛠️ Technologies and Tools
+- **Languages**: PHP, JavaScript, HTML, CSS
+- **Frameworks**: Laravel
+- **Currently learning**: OOP in PHP and other PHP frameworks
 
-=> The old Repo's have been deleted to correct security problems! #Learn_From_Error
+### 📫 Get in Touch
+- Feel free to contact me for any collaboration or project
+- [GitHub Memory Profile](https://githubmemory.com/@audricsan)
+
+### ⚡ Fun Fact
+I'm a designer who transitioned into a developer!
+
+---

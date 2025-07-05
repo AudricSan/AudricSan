@@ -19,6 +19,7 @@
 /VideoDecodeStats 
 /WebStorage 
 /Workspaces
+/Shared Dictionary
 User/globalStorage
 User/History
 User/snippets
@@ -28,3 +29,6 @@ Local State
 machineid
 Preferences
 languagepacks.json
+SharedStorage
+/DawnGraphiteCache
+DawnWebGPUCache
