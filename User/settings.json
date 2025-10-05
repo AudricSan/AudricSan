@@ -1,127 +1,157 @@
 {
-    // EDITOR
-    "editor.minimap.enabled": false,
-    "editor.formatOnPaste": false,
-    "editor.formatOnSave": false,
-    "editor.renderWhitespace": "trailing",
-    "editor.linkedEditing": true,
-    "editor.occurrencesHighlight": "off",
-    "editor.suggest.insertMode": "replace",
-    "editor.acceptSuggestionOnCommitCharacter": false,
-    "editor.fontFamily": "Source Code Pro, JetBrains Mono, Consolas, Courier New, monospace",
-    "editor.lineHeight": 21,
-    "editor.fontSize": 15,
+  // =====================
+  // EDITOR
+  // =====================
+  "editor.minimap.enabled": false,
+  "editor.formatOnPaste": false,
+  "editor.formatOnSave": false,
+  "editor.renderWhitespace": "trailing",
+  "editor.linkedEditing": true,
+  "editor.occurrencesHighlight": "off",
+  "editor.suggest.insertMode": "replace",
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "editor.fontFamily": "Source Code Pro, JetBrains Mono, Consolas, Courier New, monospace",
+  "editor.lineHeight": 21,
+  "editor.fontSize": 15,
+  "editor.inlineSuggest.suppressSuggestions": true,
+  "editor.unicodeHighlight.invisibleCharacters": false,
+  "editor.unicodeHighlight.ambiguousCharacters": false,
 
-    //FILES
-    "files.autoSave": "onFocusChange",
-    "files.defaultLanguage": "mackdown",
+  // =====================
+  // FILES
+  // =====================
+  "files.autoSave": "onFocusChange",
+  "files.defaultLanguage": "markdown",
+  "files.associations": {
+    "*.ps1": "powershell",
+    "*.vsc": "csv",
+    "*.php": "php"
+  },
 
-    //EXPLOREUR
-    "explorer.autoReveal": false,
-    "explorer.confirmDragAndDrop": false,
-    "explorer.confirmDelete": true,
-    "explorer.confirmUndo": "default",
+  // =====================
+  // EXPLORER
+  // =====================
+  "explorer.autoReveal": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "explorer.confirmUndo": "default",
+  "explorer.confirmPasteNative": false,
+  "explorer.fileNesting.patterns": {
+    "*.ts": "${capture}.js",
+    "*.js": "${capture}.js.map, ${capture}.min.js, ${capture}.d.ts",
+    "*.jsx": "${capture}.js",
+    "*.tsx": "${capture}.ts",
+    "tsconfig.json": "tsconfig.*.json",
+    "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, bun.lockb",
+    "*.sqlite": "${capture}.${extname}-*",
+    "*.db": "${capture}.${extname}-*",
+    "*.sqlite3": "${capture}.${extname}-*",
+    "*.db3": "${capture}.${extname}-*",
+    "*.sdb": "${capture}.${extname}-*",
+    "*.s3db": "${capture}.${extname}-*"
+  },
 
-    //WORKBENCH
-    "workbench.tree.indent": 15,
-    "workbench.tree.renderIndentGuides": "always",
-    "workbench.editor.enablePreview": true,
-    "workbench.iconTheme": "material-icon-theme",
+  // =====================
+  // WORKBENCH
+  // =====================
+  "workbench.tree.indent": 15,
+  "workbench.tree.renderIndentGuides": "always",
+  "workbench.editor.enablePreview": true,
+  "workbench.editor.enablePreviewFromQuickOpen": true,
+  "workbench.startupEditor": "none",
+  "workbench.colorTheme": "Visual Studio Dark",
+  "workbench.iconTheme": "material-icon-theme",
 
-    //EMMET
-    "emmet.triggerExpansionOnTab": true,
+  // =====================
+  // GIT
+  // =====================
+  "git.confirmSync": true,
+  "git.enableSmartCommit": true,
+  "git.openRepositoryInParentFolders": "always",
+  "git.autofetch": true,
 
-    //GIT
-    "git.confirmSync": true,
-    "git.enableSmartCommit": true,
+  // =====================
+  // TERMINAL 
+  // =====================
+  "terminal.integrated.enableMultiLinePasteWarning": false,
 
-    //MUTICOMANDE
-    "multiCommand.commands": [
-        {
-            "command": "multiCommand.menuHide",
-            "sequence": [
-                "workbench.action.toggleActivityBarVisibility",
-                "workbench.action.toggleSidebarVisibility"
-            ]
-        }
-    ],
+  // =====================
+  // EXTENSIONS & PLUGINS
+  // =====================
+  "emmet.triggerExpansionOnTab": true,
+  "markdown-pdf.convertOnSave": false,
+  "vscode-home-assistant.ignoreCertificates": true,
+  "vscode-edge-devtools.webhintInstallNotification": true,
+  "vscodeGoogleTranslate.preferredLanguage": "French",
+  "Codegeex.Privacy": true,
+  "codeium.enableConfig": {
+    "*": true,
+    "plaintext": true,
+    "factorio-locale": true
+  },
+  "diffEditor.ignoreTrimWhitespace": true,
+  "camouflage.enabled": false,
+  "database-client.autoSync": true,
+  "makefile.configureOnOpen": true,
+  "liveServer.settings.donotVerifyTags": true,
 
-    //SSH Platform
-    "remote.SSH.remotePlatform": {
-        "192.168.10.111": "linux"
-    },
-    "vscode-home-assistant.hostUrl": "http://192.168.10.111:8123",
-    "vscode-home-assistant.ignoreCertificates": true,
-    "vscode-home-assistant.longLivedAccessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiIwNmZkYjVkYzkzM2Y0NGU5YTgzZTZlODViYmVjNTYxNCIsImlhdCI6MTY5NDE3MzE5MywiZXhwIjoyMDA5NTMzMTkzfQ.cq8bNnvavTDPbS4CPWqtV65tRMhCkAdyJeGhMhzBp6E",
-    "workbench.editor.enablePreviewFromQuickOpen": true,
-    "vscode-edge-devtools.webhintInstallNotification": true,
-    "window.zoomLevel": -1,
-    "[json]": {
-        "editor.defaultFormatter": "vscode.json-language-features"
-    },
-    "vscodeGoogleTranslate.preferredLanguage": "French",
-    "security.workspace.trust.untrustedFiles": "open",
-    "[php]": {
-        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
-    },
-    "[scss]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "[html]": {
-        "editor.defaultFormatter": "vscode.html-language-features"
-    },
-    "[javascript]": {
-        "editor.defaultFormatter": "vscode.typescript-language-features"
-    },
-    "terminal.integrated.enableMultiLinePasteWarning": false,
-    "[css]": {
-        "editor.defaultFormatter": "vscode.css-language-features"
-    },
-    "workbench.startupEditor": "none",
-    "liveServer.settings.donotVerifyTags": true,
-    "[properties]": {
-        
-    },
-    "[dockercompose]": {
-        "editor.defaultFormatter": "ms-azuretools.vscode-docker"
-    },
-    "git.openRepositoryInParentFolders": "always",
-    "workbench.colorTheme": "Visual Studio Dark",
-    "mssql.objectExplorer.groupBySchema": false,
-    "markdown-preview-enhanced.codeBlockTheme": "okaidia.css",
-    "markdown-preview-enhanced.previewTheme": "github-dark.css",
-    "explorer.fileNesting.patterns": {
-        "*.ts": "${capture}.js",
-        "*.js": "${capture}.js.map, ${capture}.min.js, ${capture}.d.ts",
-        "*.jsx": "${capture}.js",
-        "*.tsx": "${capture}.ts",
-        "tsconfig.json": "tsconfig.*.json",
-        "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, bun.lockb",
-        "*.sqlite": "${capture}.${extname}-*",
-        "*.db": "${capture}.${extname}-*",
-        "*.sqlite3": "${capture}.${extname}-*",
-        "*.db3": "${capture}.${extname}-*",
-        "*.sdb": "${capture}.${extname}-*",
-        "*.s3db": "${capture}.${extname}-*"
-    },
-    "[markdown]": {
-        "editor.defaultFormatter": "yzhang.markdown-all-in-one"
-    },
-    "editor.inlineSuggest.suppressSuggestions": true,
-    "Codegeex.Privacy": true,
-    "codeium.enableConfig": {
-        "*": true,
-        "plaintext": true,
-        "factorio-locale": true
-    },
-    "files.associations": {
-        "*.ps1": "powershell"
-    },
-    "[home-assistant]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "diffEditor.ignoreTrimWhitespace": true,
-    "makefile.configureOnOpen": true,
-    "editor.unicodeHighlight.invisibleCharacters": false,
-    "camouflage.enabled": false,
+  // =====================
+  // REMOTE / SSH
+  // =====================
+  "remote.SSH.remotePlatform": {
+    "192.168.10.111": "linux",
+    "192.168.11.14": "linux",
+    "abcy.duckdns.org": "linux"
+  },
+
+  // =====================
+  // LANGUAGE SPECIFIC FORMATTERS
+  // =====================
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+  },
+  "[home-assistant]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[properties]": {},
+  "[dockercompose]": {
+    "editor.defaultFormatter": "ms-azuretools.vscode-containers"
+  },
+
+  // =====================
+  // OTHER
+  // =====================
+  "security.workspace.trust.untrustedFiles": "open",
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": true,
+    "scminput": false
+  },
+  "github.copilot.chat.localeOverride": "fr",
+  "refactai.addressURL": "Refact",
+  "refactai.apiKey": "zVjY7L0Qpg3MwblHm3odmMxG",
+  "refactai.pauseCompletion": true,
+  "python.createEnvironment.trigger": "off"
 }
