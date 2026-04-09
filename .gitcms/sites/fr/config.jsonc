@@ -1,0 +1,14 @@
+{
+  "version": "1",
+  "media_path": "",
+  "frontmatter_format": "yaml",
+  "publishing_mode": "editorial_workflow",
+  "collections": [
+    {
+      "name": "",
+      "git_path": "",
+      "file_extension": ".md",
+      "filename_pattern": ""
+    }
+  ]
+}

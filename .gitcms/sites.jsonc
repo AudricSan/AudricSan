@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "sites": [
+    {
+      "key": "fr",
+      "display_name": "Fr",
+      "website_url": "https://blog.audricrosier.be/fr",
+      "root_path": ""
+    }
+  ]
+}
