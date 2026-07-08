@@ -26,8 +26,8 @@
 | Projet | Description | Statut |
 |---|---|---|
 | ⏱️ [Kintai](https://github.com/AudricSan/Kintai) | Gestion open-source des shifts, pointages et effectifs pour commerces multi-sites (PHP 8.3, MVC maison) | 🚧 En développement actif |
-| 🈴 [KanaTraining](https://github.com/AudricSan/kanaTraining) | Application d'entraînement aux kana japonais | 🚧 En développement actif |
-| 📸 [Photographics](https://github.com/AudricSan/Photographics) | Projet de fin d'études | ⏸️ En pause |
+| 🈴 [KanaTraining](https://github.com/AudricSan/kanaTraining) | Application d'entraînement aux kana japonais | ⏸️ En pause |
+| 📸 [Photographics](https://github.com/AudricSan/Photographics) | Projet de fin d'études | 🚫 Abandonné pour le moment |
 
 ---
 
@@ -57,8 +57,8 @@
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AudricSan&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AudricSan&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/AudricSan?label=Followers&style=for-the-badge&color=blueviolet" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=blueviolet&label=Repos%20publics&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAudricSan" />
 </p>
 
 <p align="center">
