@@ -98,7 +98,7 @@ Open-source shift scheduling, time clocking, leave and daily reports for shops w
 Got a project, a question, or a role in mind? I'm happy to chat, in French, English or Japanese.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/audricrosier">LinkedIn</a> · <a href="mailto:odorikurojie@gmail.com">Email</a>
+  <a href="https://blog.audricrosier.be/">Blog</a> · <a href="https://www.linkedin.com/in/audricrosier">LinkedIn</a> · <a href="mailto:odorikurojie@gmail.com">Email</a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%" alt="" />
